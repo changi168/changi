@@ -1,0 +1,2 @@
+# changi
+openCV_tesseract
